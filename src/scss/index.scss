@@ -20,4 +20,12 @@ body {
 .excel {
     position: relative;
     color: #888;
+    height: 100%;
+    max-width: 100%;
+    font-size: .8rem;
 }
+// :focus {
+//     outline-style: none;
+//     outline-width: 0px !important;
+//     outline-color: none !important;
+// }
